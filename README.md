@@ -1,3 +1,6 @@
+
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/AryaRamani/Strike-Components
+
 # Strike by Appiphony
 ### Work smarter (not harder) with Salesforce Lightning Components
 Current release: 0.9.0  
